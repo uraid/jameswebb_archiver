@@ -1,4 +1,4 @@
-Archives James Webb Telescope's Near Infrared Camera (NIRCam) Images including metdata.  
+Archives James Webb Telescope's Near Infrared Camera (NIRCam) Images including metdata.   
 
 # Installation
 You can install the James Webb Archiver from PyPi:  
